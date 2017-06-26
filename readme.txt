@@ -4,3 +4,4 @@ git is very simple
 git manage track
 git is so useful
 add a new branch
+git create branch is so easy & simple
