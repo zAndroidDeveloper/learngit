@@ -5,4 +5,5 @@ git manage track
 git is so useful
 add a new branch
 git create a brance is so easy and simple
+git continue test
 
